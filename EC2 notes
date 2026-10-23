@@ -1,0 +1,16 @@
+# DevOps Practice
+
+Self-learning labs by Aakash Kumar.
+
+**Jenkins (local):** Freestyle job, node setup, declarative pipeline with Clone/Build/Test/Deploy stages (echo placeholders), Stage View plugin, GitHub repo + hook trigger configuration.
+**AWS EC2:** launch, SSH access and public IP basics.
+**Learning next:** replace placeholder stages with real build/test steps.
+
+
+# AWS EC2 Practice
+
+- Launched a Linux EC2 instance and created a key pair
+- Connected using `ssh -i key.pem ubuntu@<public-ip>`
+- Public IP changes after stop/start (Elastic IP keeps it fixed)
+
+Note: This was self-learning practice. The AWS account has since been closed.
